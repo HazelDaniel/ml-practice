@@ -1,0 +1,6 @@
+[submodule "child.foundations"]
+	path = vendor/foundations
+	url = https://github.com/HazelDaniel/ml-practice-foundations.git
+[submodule "child.low_level"]
+	path = vendor/low_level
+	url = https://github.com/HazelDaniel/ml-practice-low_level.git
